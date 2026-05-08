@@ -1,25 +1,23 @@
-<h1 align="center">👋 Hi, I'm Yahia Zakaria Kamel</h1>
+😂 ماشي! الكود اتكسر. هعملهولك من أول وجديد كامل صح.
+اضغط ✏️ edit على الـ README، امسح كل حاجة بـ Ctrl+A ثم Delete، وبعدين انسخ الكود ده كله:
+markdown<h1 align="center">👋 Hi, I'm Yahia Zakaria Kamel</h1>
 
-<h3 align="center">
-🔐 Network Security Engineer | Fortinet Certified Professional | F5 Specialist
-</h3>
+<h3 align="center">🔐 Network Security Engineer | Fortinet Certified Professional | F5 Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE3124&center=true&width=500&lines=Network+Security+Engineer;Fortinet+%7C+F5+%7C+Cisco+%7C+Palo+Alto;Always+Defending+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE3124&center=true&width=500&lines=Network+Security+Engineer;Fortinet+%7C+F5+%7C+Cisco+%7C+Palo+Alto;Enterprise+Firewall+%7C+WAF+%7C+Network+Defense;Always+Defending+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yahiakamelnetworksecurity2/">
     <img src="https://img.shields.io/badge/LinkedIn-yahiakamel-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:yahiakamel2256@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-yahiakamel2256-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=YahiaKamel129&style=flat-square&color=EE3124" />
-</p>  </a>
-  <img src="https://komarev.com/ghpvc/?username=YahiaKamel129&style=for-the-badge&color=EE3124" />
 </p>
 
 ---
@@ -64,20 +62,20 @@
 ## 🛡️ Tools & Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FortiManager-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FortiAnalyzer-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/F5_ASM-CC0000?style=for-the-badge&logo=f5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/F5_LTM-CC0000?style=for-the-badge&logo=f5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Palo_Alto-00B4E0?style=for-the-badge&logo=paloaltonetworks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PNETLab-21262d?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EVE--NG-21262d?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FortiGate-EE3124?style=flat-square&logo=fortinet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FortiManager-EE3124?style=flat-square&logo=fortinet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FortiAnalyzer-EE3124?style=flat-square&logo=fortinet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/F5_ASM-CC0000?style=flat-square&logo=f5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/F5_LTM-CC0000?style=flat-square&logo=f5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Palo_Alto-00B4E0?style=flat-square&logo=paloaltonetworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PNETLab-21262d?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EVE--NG-21262d?style=flat-square&logoColor=white"/>
 </p>
 
 ---
