@@ -3,8 +3,7 @@
 <h3 align="center">🔐 Network Security Engineer | Fortinet Certified Professional | F5 Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE3124&center=true&width=500&lines=Network+Security+Engineer;Fortinet+%7C+F5+%7C+Cisco+%7C+Palo+Alto;
-    Always+Defending+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE3124&center=true&width=500&lines=Network+Security+Engineer;Fortinet+%7C+F5+%7C+Cisco+%7C+Palo+Alto;Enterprise+Firewall+%7C+WAF+%7C+Network+Defense;Always+Defending+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -111,7 +110,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=YahiaKamel129&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YahiaKamel129&theme=github-dark-blue&hide_border=true" width="48%"/>
 </p>
 
 ---
