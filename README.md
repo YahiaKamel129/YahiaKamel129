@@ -1,6 +1,4 @@
-😂 ماشي! الكود اتكسر. هعملهولك من أول وجديد كامل صح.
-اضغط ✏️ edit على الـ README، امسح كل حاجة بـ Ctrl+A ثم Delete، وبعدين انسخ الكود ده كله:
-markdown<h1 align="center">👋 Hi, I'm Yahia Zakaria Kamel</h1>
+<h1 align="center">👋 Hi, I'm Yahia Zakaria Kamel</h1>
 
 <h3 align="center">🔐 Network Security Engineer | Fortinet Certified Professional | F5 Specialist</h3>
 
