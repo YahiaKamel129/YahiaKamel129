@@ -5,16 +5,20 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE3124&center=true&width=500&lines=Network+Security+Engineer;Fortinet+%7C+F5+%7C+Cisco+%7C+Palo+Alto;SOC+%7C+Incident+Response+%7C+Threat+Detection;Always+Defending+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE3124&center=true&width=500&lines=Network+Security+Engineer;Fortinet+%7C+F5+%7C+Cisco+%7C+Palo+Alto;Always+Defending+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yahiakamel">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/yahiakamelnetworksecurity2/">
+    <img src="https://img.shields.io/badge/LinkedIn-yahiakamel-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="mailto:yahiakamel2256@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-yahiakamel2256-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=YahiaKamel129&style=flat-square&color=EE3124" />
+</p>  </a>
   <img src="https://komarev.com/ghpvc/?username=YahiaKamel129&style=for-the-badge&color=EE3124" />
 </p>
 
